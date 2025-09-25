@@ -1,4 +1,4 @@
-# Navigating affective states via RSA-informed Real-time fMRI Semantic Neurofeedback (rt-fMRI-sNF)
+# Navigating emotional states via RSA-informed real-time fMRI semantic neurofeedback (rt-fMRI-sNF)
 
 This repository contains code from our feasibility study on **Toward navigating emotional states using real-time representational similarity analysis fMRI neurofeedback**.  
 The project investigates how multivariate brain patterns can be decoded in real time and used to guide participants in modulating emotional states through mental imagery.
