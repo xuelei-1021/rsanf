@@ -8,19 +8,14 @@ The project investigates how multivariate brain patterns can be decoded in real 
 ## Repository Structure
 
 - **scripts/** – scripts for univariate and multivariate analyses (GLM, RSA, ROI analyses, etc.)  
-- **data/** – real-time and offline preprocessed fMRI data (not available here)  
-- **results/** – statistical results and corresponding figures (linear mixed-effects models, univariate stats, logs, etc.) (not available here)  
+- **data/** – real-time and offline preprocessed fMRI data 
+- **results/** – statistical results and corresponding figures (linear mixed-effects models, univariate stats, logs, etc.)
 ---
 
 ## Requirements
 
 - Python 3.6.12  
-- [Nilearn](https://nilearn.github.io/)  
-- [Statsmodels](https://www.statsmodels.org/)  
-- [Scikit-learn](https://scikit-learn.org/)  
-- [NumPy](https://numpy.org/)  
-- [Pandas](https://pandas.pydata.org/)  
-- [Matplotlib](https://matplotlib.org/)  
+- [Nilearn](https://nilearn.github.io/)
 
 (See [`requirements.txt`](./requirements.txt) for the full list with specific version numbers.)
 
@@ -29,20 +24,20 @@ The project investigates how multivariate brain patterns can be decoded in real 
 ## Usage
 
 ### 1. Preprocessing
-Preprocessed fMRI data (e.g., from **fMRIPrep**) and real-time output are required as input.  
+Preprocessed fMRI data (e.g., from [**fMRIPrep**](https://fmriprep.org/en/stable/)) and real-time output are required as input.  
 
 ### 2. Running Analyses
-- **Univariate analysis**: `1_univ_pattern.ipynb`  
-- **Multivariate (RSA) analysis**: `2_rsa_pattern.ipynb`  
-- **Group-level neurofeedback analysis**: `3_group_NF.ipynb`  
-- **Individual-level neurofeedback analysis**: `4_individual_NF.ipynb`  
+- **Univariate analysis**: [`1_univ_pattern.ipynb`](./scripts/1_univ_pattern.ipynb)  
+- **Multivariate (RSA) analysis**: [`2_rsa_pattern.ipynb`](./scripts/2_rsa_pattern.ipynb)  
+- **Group-level neurofeedback analysis**: [`3_group_NF.ipynb`](./scripts/3_group_NF.ipynb)  
+- **Individual-level neurofeedback analysis**: [`4_individual_NF.ipynb`](./scripts/4_individual_NF.ipynb)  
 
 ---
 
 ## Reproducibility
 
 All key analyses from the manuscript can be reproduced with the scripts provided here.  
-The dataset will be made available at a later stage (see manuscript statement).  
+The dataset will be made available at a later stage.  
 
 ---
 
