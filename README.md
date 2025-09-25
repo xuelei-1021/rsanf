@@ -9,12 +9,12 @@ The project investigates how multivariate brain patterns can be decoded in real 
 
 - **scripts/** – scripts for univariate and multivariate analyses (GLM, RSA, ROI analyses, etc.)  
 - **data/** – real-time and offline preprocessed fMRI data (not available here)  
-- **results/** – statistical results and corresponding figures (linear mixed-effects models, univariate stats, logs, etc.)  
+- **results/** – statistical results and corresponding figures (linear mixed-effects models, univariate stats, logs, etc.) (not available here)  
 ---
 
 ## Requirements
 
-- Python 3.6  
+- Python 3.6.12  
 - [Nilearn](https://nilearn.github.io/)  
 - [Statsmodels](https://www.statsmodels.org/)  
 - [Scikit-learn](https://scikit-learn.org/)  
@@ -22,7 +22,7 @@ The project investigates how multivariate brain patterns can be decoded in real 
 - [Pandas](https://pandas.pydata.org/)  
 - [Matplotlib](https://matplotlib.org/)  
 
-(See `requirements.txt` for the full list.)
+(See [`requirements.txt`](./requirements.txt) for the full list with specific version numbers.)
 
 ---
 
@@ -50,7 +50,7 @@ The dataset will be made available at a later stage (see manuscript statement).
 
 If you use this code, please cite:  
 
-**Toward navigating emotional states using real-time representational similarity analysis fMRI neurofeedback - a feasibility study**, *in review*, 2025.  
+**Toward navigating emotional states using real-time representational similarity analysis fMRI neurofeedback - a feasibility study**.
 
 ---
 
