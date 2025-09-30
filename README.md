@@ -45,7 +45,7 @@ The dataset will be made available at a later stage.
 
 If you use this code, please cite:  
 
-**Wang, X., Ciarlo, A. (2025). Toward navigating emotional states using real-time representational similarity analysis fMRI neurofeedback - a feasibility study . bioRxiv preprint. https://www.biorxiv.org/content/10.1101/2025.09.25.678461v1**.
+**Wang, X., Ciarlo, A., Lührs, M., Atanasyan, A., Böken, D., Roßmann, J., Schluse, M., Jäger, M., Nordt, M., Cong, F., Mathiak, K., Linden, D.E.J., Goebel, R., Mehler, D.M.A., Zweerings, J. (2025). Toward navigating emotional states using real-time representational similarity analysis fMRI neurofeedback - a feasibility study . bioRxiv preprint. https://www.biorxiv.org/content/10.1101/2025.09.25.678461v1**.
 
 ---
 
