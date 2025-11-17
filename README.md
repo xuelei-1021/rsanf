@@ -52,6 +52,6 @@ If you use this code, please cite:
 ## Contact
 
 For questions or issues, please open a GitHub issue or contact:  
-**Xuelei Wang** – [xuwang@ukaachen.de]  
+**Xuelei Wang** – [xuelei.wang@rwth-aachen.de]  
 
 ---
