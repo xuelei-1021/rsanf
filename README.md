@@ -1,6 +1,6 @@
 # Navigating emotional states via RSA-informed real-time fMRI semantic neurofeedback (rt-fMRI-sNF)
 
-This repository contains code from our feasibility study on [**Toward navigating emotional states using real-time representational similarity analysis fMRI neurofeedback**](https://www.biorxiv.org/content/10.1101/2025.09.25.678461v1).  
+This repository contains code for [**A Feasibility Study of Navigating Emotional States Using Real-Time Representational Similarity Analysis fMRI Neurofeedback**](https://www.worldscientific.com/doi/10.1142/S0129065726500188).  
 The project investigates how multivariate brain patterns can be decoded in real time and used to guide participants in modulating emotional states through mental imagery.
 
 ---
@@ -8,7 +8,7 @@ The project investigates how multivariate brain patterns can be decoded in real 
 ## Repository Structure
 
 - **scripts/** – scripts for univariate and multivariate analyses (GLM, RSA, ROI analyses, etc.)  
-- **data/** – real-time and offline preprocessed fMRI data 
+- **data/** – real-time and offline preprocessed fMRI data
 - **results/** – statistical results and corresponding figures (linear mixed-effects models, univariate stats, logs, etc.)
 ---
 
@@ -45,7 +45,7 @@ The dataset will be made available at a later stage.
 
 If you use this code, please cite:  
 
-**Wang, X., Ciarlo, A., Lührs, M., Atanasyan, A., Böken, D., Roßmann, J., Schluse, M., Jäger, M., Nordt, M., Cong, F., Mathiak, K., Linden, D.E.J., Goebel, R., Mehler, D.M.A., Zweerings, J. (2025). Toward navigating emotional states using real-time representational similarity analysis fMRI neurofeedback - a feasibility study . bioRxiv preprint. https://www.biorxiv.org/content/10.1101/2025.09.25.678461v1**.
+**Wang X, Ciarlo A, Luhrs M, et al. A feasibility study of navigating emotional states using real-time representational similarity analysis fMRI neurofeedback\[J\]. International Journal of Neural Systems, 2026.**
 
 ---
 
